@@ -1,0 +1,34 @@
+:root {
+  --blue-lighter: #52c4ee;
+  --blue: #00aeef;
+  --blue-darker: #005575;
+
+  --purple-lighter: #f081c3;
+  --purple: #ed008c;
+  --purple-darker: #ca0077;
+
+  --yellow-lighter: #fffaa3;
+  --yellow: #fff000;
+  --yellow-darker: #d2b100;
+
+  --white: #ffffff;
+  --grey: #888888;
+  --black: #000000;
+}
+
+:root {
+  --app-bg: var(--black);
+  --app-fg: var(--white);
+  --primary-base-bg-darker: var(--blue-darker);
+  --primary-base-bg: var(--blue);
+  --primary-base-bg-lighter: var(--blue-lighter);
+  --primary-base-text-bg: var(--black);
+  --primary-base-text-fg: var(--white);
+  --primary-base-shadow: var(--blue-darker);
+  --alert-base-bg: var(--purple);
+  --alert-base-fg: var(--white);
+  --pop-light-base-bg: var(--yellow);
+  --pop-light-base-fg: var(--black);
+  --pop-invert-base-bg: var(--black);
+  --pop-invert-base-fg: var(--yellow);
+}

@@ -1,2 +1,3 @@
-# viva
-A Simple, Modern Design System
+# Viva Design System
+
+More to come...

@@ -1,0 +1,5 @@
+@import 'spacing.css';
+
+:root {
+  --curved-edge-unit: calc(var(--spacing-unit) / 3);
+}
